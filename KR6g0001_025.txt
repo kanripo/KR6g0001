@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:54.493929
+#+DATE: 2015-08-30 20:03:07.877502
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6g0001_T_025-0510b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
 ¶
-
- 《大般涅槃經》卷第二十五¶
+《大般涅槃經》卷第二十五¶
 ¶
 北涼天竺三藏曇無讖譯¶
 光明遍照高貴德王菩薩品第十之五¶
@@ -416,7 +415,7 @@
 
 「善男子！何因緣故我於往昔尼連河邊告魔¶
 波旬，我今未有多智弟子，是故不得入涅槃¶
-者？我時欲為五比丘等，於波羅㮈轉法輪故。¶
+者？我時欲為五比丘等，於波羅[木*奈]轉法輪故。¶
 復次欲為五比丘等，所謂耶奢、富那、毘摩羅
 <pb:KR6g0001_T_025-0514c>¶
 闍、憍梵波提、須婆睺。次復欲為郁伽長者等¶
