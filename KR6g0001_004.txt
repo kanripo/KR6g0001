@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:53.830645
+#+DATE: 2015-08-30 20:03:05.279179
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6g0001_T_004-0385b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大般涅槃經》卷第四¶
+《大般涅槃經》卷第四¶
 ¶
 北涼天竺三藏曇無讖譯¶
 
-4如來性品
-:PROPERTIES:
-:head: 如來性品第四之一
-:END:
-¶
+如來性品第四之一¶
 
 佛復告迦葉：「善男子！菩薩摩訶薩分別開示¶
 大般涅槃，有四相義。何等為四？一者自正，¶
@@ -165,7 +160,7 @@
 肉，手自作食，執持油瓶、寶蓋、革屣，親近國¶
 王、大臣長者。占相星宿，勤修醫道，畜養奴婢、
 <pb:KR6g0001_T_004-0386c>¶
-金銀、琉璃、車𤦲、馬瑙、頗梨、真珠、珊瑚、虎珀、璧玉、¶
+金銀、琉璃、車[(王*巨)/木]、馬瑙、頗梨、真珠、珊瑚、虎珀、璧玉、¶
 珂貝，種種果蓏，學諸伎藝，畫師泥作，造書教¶
 學，種植根栽，蠱道呪幻，和合諸藥，作倡伎¶
 樂，香花治身，樗蒱圍碁，學諸工巧。若有比丘，¶
