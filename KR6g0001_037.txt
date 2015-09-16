@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:54.867961
+#+DATE: 2015-08-30 20:03:10.204571
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0001_T_037-0580c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 37
 ¶
 ¶
-
- 《大般涅槃經》卷第三十七¶
+《大般涅槃經》卷第三十七¶
 ¶
 北涼天竺三藏曇無讖譯¶
 迦葉菩薩品第十二之五¶

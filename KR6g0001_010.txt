@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:54.038548
+#+DATE: 2015-08-30 20:03:09.383988
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0001_T_010-0422c> 
 #+PROPERTY: JUAN 10
 ¶
-
- 《大般涅槃經》卷第十¶
+《大般涅槃經》卷第十¶
 ¶
 北涼天竺三藏曇無讖譯¶
 如來性品第四之七¶
@@ -180,11 +179,7 @@
 師子吼，隨順世間種種音聲，而為眾生歎說¶
 妙法。」¶
 
-5一切大眾所問品
-:PROPERTIES:
-:head: 《大般涅槃經》一切大眾所問品第五
-:END:
-¶
+《大般涅槃經》一切大眾所問品第五¶
 
 爾時，世尊從其面門放種種色，青、黃、赤、白、紅、¶
 紫光明照純陀身，純陀遇已，與諸眷屬，持諸¶

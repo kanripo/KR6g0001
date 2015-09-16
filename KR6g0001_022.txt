@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:54.404003
+#+DATE: 2015-08-30 20:03:09.761661
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0001_T_022-0493b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 22
 ¶
 ¶
-
- 《大般涅槃經》卷第二十二¶
+《大般涅槃經》卷第二十二¶
 ¶
 北涼天竺三藏曇無讖譯¶
 光明遍照高貴德王菩薩品第十之二¶
@@ -22,8 +21,7 @@
 經，得具足聞。先雖得聞，唯聞名字，而今於此¶
 大涅槃經，乃得聞義。聲聞緣覺唯聞十二部¶
 經名字，不聞其義，今於此經具足得聞，是名¶
-不聞而聞。善男子！一切聲聞緣覺經中，不¶
-曾聞佛有常樂我淨、不畢竟滅，三寶佛性無¶
+不聞而聞。善男子！一切聲聞緣覺經中，不曾聞佛有常樂我淨、不畢竟滅，三寶佛性無¶
 差別相，犯四重罪、謗方等經、作五逆罪及一¶
 闡提悉有佛性，今於此經而得聞之，是名不¶
 聞而聞。」

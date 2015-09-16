@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:54.955596
+#+DATE: 2015-08-30 20:03:10.304386
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0001_T_040-0597b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 40
 ¶
 ¶
-
- 《大般涅槃經》卷第四十¶
+《大般涅槃經》卷第四十¶
 ¶
 北涼天竺三藏曇無讖譯¶
 憍陳如品第十三之二¶
@@ -228,8 +227,8 @@
 矟，是故不應說一切法有自性也。善男子！¶
 汝言如龜陸生，性自入水。犢子生已，性能飲¶
 乳。是義不然。何以故？若言入水非因緣者，俱¶
-非因緣，何不入火？犢子生已，性能𠲿乳，不從¶
-因緣者，俱非因緣，何不𠲿角？善男子！若言¶
+非因緣，何不入火？犢子生已，性能[口*束]乳，不從¶
+因緣者，俱非因緣，何不[口*束]角？善男子！若言¶
 諸法悉有自性，不須教習，無有增長，是義不¶
 然。何以故？今見有教，緣教增長，是故當知無¶
 有自性。善男子！若一切法有自性者，諸婆羅¶
@@ -278,7 +277,7 @@
 等亦應如是精勤持戒。
 
 「善男子！汝言五大有¶
-定堅性，我觀是性轉故不定。善男子！酥䗶¶
+定堅性，我觀是性轉故不定。善男子！酥䗶[虫*葛]¶
 胡膠，於汝法中名之為地，是地不定，或同於¶
 水，或同於地，故不得說自性故堅。善男子！白¶
 鑞鉛錫、銅鐵金銀，於汝法中名之為火，是火¶
@@ -752,68 +751,68 @@
 阿摩隸(一)　毘磨隷(二)　涅磨隷(三)　瞢伽隷(四)　醯¶
 磨羅若竭捭(五)　三曼那跋提(六)　娑婆陀　裟檀¶
 尼(七)　波羅磨他　娑檀尼(八)　摩那斯(九)　阿拙啼(十)¶
-　毘羅祇(十一)　菴摩賴坻(十二)　婆嵐彌(十三)　婆嵐摩(十四)　莎¶
-隸富泥富那(十五)　摩奴賴綈(十六)
+　毘羅祇(十一)　菴摩賴[土*(系-小)](十二)　婆嵐彌(十三)　婆嵐摩(十四)　莎¶
+隸富泥富那(十五)　摩奴賴綈(五十)
 <pb:KR6g0001_T_040-0604a>¶
 
 　　　高野山出涅槃經梵文斷片¶
 
 　　　　　　　　　　　　【表】¶
 
-1.1.mamaśrāvakāmahāyānnakāṃkṣitāstadāṣaḍrasavanmahābhojanamivama-¶
+1. 1. mama śrāvakā mahāyānnakāṃkṣitās tadā ṣaḍrasavan mahābhojanam iva ma-¶
 
-　　　hāparinivvāṇaṃmahāsūtraṃdeśayāmi.¶
+　　　hāparinivvāṇaṃ mahāsūtraṃ deśayāmi.¶
 
-1.2.tatrakatameṣaḍrasāduḥkhamāṃvlam[āmlam][a-]nityaṃlavaṇamanātma-¶
+1. 2. tatra katame ṣaḍrasā duḥkham āṃvlam [āmlam][a-]nityaṃ lavaṇam anātma-¶
 
-　　　kaṃkaṭukaṃsukhaṃmadhuraṃsātmakaṃkaṣāyaṃnityanti-¶
+　　　kaṃ kaṭukaṃ sukhaṃ madhuraṃ sātmakaṃ kaṣāyaṃ nityan ti-¶
 
-1.3.ktamitiimeṣaḍrasāḥkleśendhanenamāyā-agnināparipācitaṃbhojanaṃ¶
+1. 3. ktam iti ime ṣaḍrasāḥ kleśendhanena māyā-agninā paripācitaṃ bhojanaṃ¶
 
-　　　mahāparinirvvāṇaṃtatvānnamṛṣṭaṃ¶
+　　　mahāparinirvvāṇaṃ tatvānnamṛṣṭaṃ¶
 
-1.4.mamaśrāvakābhuñjante.punaraparaṃbhaginiyathāyūyaṃparāmantraṇena¶
+1. 4. mama śrāvakā bhuñjante. punar aparaṃ bhagini yathā yūyaṃ parāmantraṇena¶
 
-　　　paracūḍākaraṇanimittenavā¶
+　　　paracūḍākaraṇanimittena vā¶
 
-1.5.paragrāmaṃgantukāmāduṣputrānutsṛjyasatputrāṇāṃguhyābhinidhānāni¶
+1. 5. paragrāmaṃ gantukāmā duṣputrān utsṛjya satputrāṇāṃ guhyābhinidhānāni¶
 
-　　　darśayasi.āmabhagavanduṣ-¶
+　　　darśayasi. āma bhagavan duṣ-¶
 
-1.6.putrāanācārāḥanarthabhāginasteṣāṃmityarthaṃnadarśayāmi.satputrās¶
+1. 6. putrā anācārāḥ anarthabhāginas teṣāṃ mityarthaṃ na darśayāmi. satputrās¶
 
-　　　tukuladharāḥkulanissarakāḥ¶
+　　　tu kuladharāḥ kulanissarakāḥ¶
 
-1.7.tedravyārhāḥteṣāṃdarśayāmi.evamahaṃbhaginimahāparinirvvāṇa-gama-¶
+1. 7. te dravyārhāḥ teṣāṃ darśayāmi. evam ahaṃ bhagini mahāparinirvvāṇa-gama-¶
 
-　　　nakriyāṃyadākaromi,tadātathā-¶
+　　　nakriyāṃ yadā karomi, tadā tathā-¶
 
 　　　　　　　　　　　　【裏】¶
 
-1.1.gatavividhaguhyaṃsandhāvacanaṃśrāvakebhyoniravaśeṣaṃkathayiṣyāmi.adya¶
+1. 1. gatavividhaguhyaṃ sandhāvacanaṃ śrāvakebhyo niravaśeṣaṃ kathayiṣyāmi. adya¶
 
-　　　putrebhyaścchandaṃdāsyāmiyathātvāṃbhagi-¶
+　　　putrebhyaś cchandaṃ dāsyāmi yathā tvāṃ bhagi-¶
 
-1.2.nipravāsagatāṃduṣputrāmṛtetikalpayantinacāpimṛtāāmabhagavanpunar¶
+1. 2. ni pravāsagatāṃ duṣputrā mṛteti kalpayanti na cāpi mṛtā āma bhagavan punar¶
 
-　　　apyāgatāntepaśyantievame-¶
+　　　apy āgatānte paśyanti evam e-¶
 
-1.3.vabhaginimayāmā'nitya-saṃjñākārṣīt.adyatathāgataḥparinirvvāsyatīti¶
+1. 3. va bhagini mayā mā 'nitya-saṃjñā kārṣīt. adya tathāgataḥ parinirvvāsyatīti¶
 
-　　　nevaṃkalpayitavyaṃmṛtasaṃjñā-¶
+　　　nevaṃ kalpayitavyaṃ mṛtasaṃjñā-¶
 
-1.4.vatyesadānityodbruvaḥśāśvataḥtathāgataitidhārayantiteṣaṃtathāgato¶
+1. 4. vat ye sadā nityodbruvaḥ śāśvataḥ tathāgata iti dhārayanti teṣaṃ tathāgato¶
 
-　　　gṛhetiṣṭhati.eṣa¶
+　　　gṛhe tiṣṭhati. eṣa¶
 
-1.5.parāddhyāśayo[adhyāśsya*]nāmapṛcchāvaśānāmaihakaścittathāgatamarh-¶
+1. 5. parāddhyāśayo [adhyāśsya*] nāma pṛcchāvaśā nāma iha kaścit tathāgatam arh-¶
 
-　　　antaṃsamyaksambuddhaṃparipṛcchetkathama-¶
+　　　antaṃ samyaksambuddhaṃ paripṛcchet katham a-¶
 
-1.6.haṃbhagavankīrttiṃprāpnuyātlokedāyakoviśrutaitinacadadyātkasmiṃś¶
+1. 6. haṃ bhagavan kīrttiṃ prāpnuyāt loke dāyako viśruta iti na ca dadyāt kasmiṃś¶
 
-　　　cit[ta]tathāgatamevamvadetniḥ-¶
+　　　cit[ta] tathāgatam evam vadet niḥ-¶
 
-1.7.saṃgampravārayadāsīdāsaparigraheṇaatyantabrahmacāriṇaṃkumārīdānena¶
+1. 7. saṃgam pravāraya dāsīdāsaparigraheṇa atyantabrahmacāriṇaṃ kumārīdānena¶
 
-　　　amāṃsa-bhojinaṃmāṃsabha
+　　　amāṃsa-bhojinaṃ māṃsabha
