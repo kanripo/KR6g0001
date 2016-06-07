@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 8:04
+#+DATE: 2016-06-08 8:05
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@XUZANG
 #+PROPERTY: LASTPB <pb:KR6g0001_T_040-0597b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 40
 ¶
@@ -751,7 +751,7 @@
 阿摩隸(一)　毘磨隷(二)　涅磨隷(三)　瞢伽隷(四)　醯¶
 磨羅若竭捭(五)　三曼那跋提(六)　娑婆陀　裟檀¶
 尼(七)　波羅磨他　娑檀尼(八)　摩那斯(九)　阿拙啼(十)¶
-　毘羅祇(十一)　菴摩賴坻(十二)　婆嵐彌(十三)　婆嵐摩(十四)　莎¶
+　毘羅祇(十一)　菴摩賴[土*(系-小)](十二)　婆嵐彌(十三)　婆嵐摩(十四)　莎¶
 隸富泥富那(十五)　摩奴賴綈(五十)
 <pb:KR6g0001_T_040-0604a>¶
 

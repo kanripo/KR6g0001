@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 8:04
+#+DATE: 2016-06-08 8:05
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@XUZANG
 #+PROPERTY: LASTPB <pb:KR6g0001_T_001-0365a> 
 #+PROPERTY: JUAN 1
 No. 374¶
@@ -40,7 +40,7 @@ No. 374¶
 義之林，開究玄致為涅槃之原用，能闡祕藏¶
 於未聞，啟靈管以通照，拯四重之癰疽，拔¶
 無間之疣贅。闡祕藏則暢群識之情，審妙我¶
-之在已；啟靈管則悟玄光之潛，映神珠之在¶
+之在已；啟靈管則悟玄[火/几]之潛，映神珠之在¶
 體。然四重無間誹謗方等，斯乃眾患之𤴲痟，¶
 創疣之甚者。故大涅槃以無創疣為義名，斯¶
 經以大涅槃為宗目。宗目舉則明統攝於眾¶
