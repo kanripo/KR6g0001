@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:54.806511
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:04
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0001_T_035-0569a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 35
 ¶
 ¶
-
- 《大般涅槃經》卷第三十五¶
+《大般涅槃經》卷第三十五¶
 ¶
 北涼天竺三藏曇無讖譯¶
 迦葉菩薩品第十二之三¶
@@ -525,7 +524,7 @@
 第說故，不從方便乳中得酪、生蘇，乃至一切¶
 諸法，皆不如是非方便得，四大亦復如是。¶
 若說從外四大增內四大，不見從內四大增¶
-外四大，如尸利沙果先無形質，見昂星時果¶
+外四大，如尸利沙果先無形質，見昴星時果¶
 則出生，足長五寸。如是果者，實不因於外四¶
 大增。¶
 

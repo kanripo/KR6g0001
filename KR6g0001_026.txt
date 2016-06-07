@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:54.530396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:04
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0001_T_026-0517c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 《大般涅槃經》卷第二十六¶
+《大般涅槃經》卷第二十六¶
 ¶
 北涼天竺三藏曇無讖譯¶
 光明遍照高貴德王菩薩品第十之六¶
@@ -208,7 +207,7 @@
 罪為善不善？答言不善。復問是罪是善果耶¶
 不善果耶？答言是罪，實非善果。又問是罪誰¶
 之所造？將非諸佛、法、僧所作？答言非佛、法、僧，¶
-我所作也，乃是煩惱之所構集。以直心故信¶
+我所作也，乃是煩惱之所搆集。以直心故信¶
 有佛性，信佛性故則不得名一闡提也。以直¶
 心故名佛弟子，若受眾生衣服飲食、臥具醫¶
 藥、種各千萬，不足為多，是名菩薩質直心也。¶

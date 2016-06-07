@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:53.830645
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:04
 #+TITLE: 大般涅槃經
 #+PROPERTY: CBETA_ID T12n0374
 #+PROPERTY: ID KR6g0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 374
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0001_T_004-0385b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大般涅槃經》卷第四¶
+《大般涅槃經》卷第四¶
 ¶
 北涼天竺三藏曇無讖譯¶
 
-4如來性品
-:PROPERTIES:
-:head: 如來性品第四之一
-:END:
-¶
+* 如來性品第四之一¶
 
 佛復告迦葉：「善男子！菩薩摩訶薩分別開示¶
 大般涅槃，有四相義。何等為四？一者自正，¶
@@ -180,7 +175,7 @@
 與肉別，然後乃食。若其食器，為肉所污，但¶
 使無味，聽用無罪。若見食中多有肉者，則不¶
 應受。一切現肉，悉不應食，食者得罪。我今唱¶
-是斷肉之制，若廣說者，即不可盡。涅槃時到，¶
+是斷肉之制，若廣說者，則不可盡。涅槃時到，¶
 是故略說。是則名為能隨問答。¶
 
 「迦葉！云何善解因緣義？如有四部之眾來問¶
@@ -274,9 +269,9 @@
 　已度婬欲，
 　諸有淤泥，
 　得無動處，¶
-　不知所至。」
+　不知所至。」」
 #+END_VERSE
-」¶
+¶
 
 「『云何如來為常住法不變易耶？』迦葉！若有人¶
 作如是難者，名為邪難。迦葉！汝亦不應作是¶
